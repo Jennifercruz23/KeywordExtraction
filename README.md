@@ -1,2 +1,1 @@
-# KeywordExtraction
-Professional KeywordExtraction infrastructure with KeywordExtraction-optimized cloud-ready and enterprise scalable-architecture capabilities
+.
